@@ -26,9 +26,9 @@ class FullStackDeveloper:
         self.name = "Sherwin Jefferson Tajan"
         self.aliases = {
             "Sir Night": "Teacher",
-            "NightDev": "Junior Full-Stack Software Engineer"
+            "NightDev": "Software Engineer III"
         }
-        self.roles = ["Teacher", "Junior Full-Stack Software Engineer", "Content Creator"]
+        self.roles = ["Software Engineer III", "Teacher", "Full-Stack Developer", "Content Creator"]
         self.languages = ["fil_PH", "en_US", "ja_JP"]
         self.location = "Philippines 🇵🇭"
         self.passion = "Building innovative solutions & teaching technology"
@@ -52,18 +52,35 @@ me.say_hello()
 
 ## 💼 Professional Journey
 
-### 🧑‍🏫 **Senior High School ICT Teacher**
-- **Empowerment Technology** - Digital literacy & modern tech tools
-- **ICT Computer Programming** - Coding fundamentals & logic
-- **Java Programming** - Object-oriented programming concepts
-- **Oracle Database** - Database design & SQL mastery
+### 💻 **Software Engineer III** | CodeFusion IT Solutions Company
+**June 2025 - Present**
+- Building scalable enterprise solutions
+- Leading technical implementations and architecture decisions
+- Mentoring junior developers and conducting code reviews
 
-### 💻 **Junior Full-Stack Software Engineer**
-Passionate about creating end-to-end solutions with modern technologies, focusing on:
-- Frontend development with React, Next.js & modern CSS
-- Backend development with Node.js, Python & database integration
-- Cloud deployment & DevOps practices
-- Mobile app development with Flutter & React Native
+### 🎨 **Front End Developer** | Innocore Solutions
+**August 2024 - 2025**
+- Developed responsive and interactive user interfaces
+- Collaborated with design and backend teams
+- Implemented modern frontend architectures
+
+### 🧑‍🏫 **Secondary Teacher** | Tanauan City Academy
+**August 2024 - 2025**
+- **ICT - Computer Programming** - Teaching coding fundamentals and logic
+- Mentoring students in technology and software development
+- Developing curriculum for programming courses
+
+### 🌐 **Freelance Web Developer**
+**2023 - Present (1+ year)**
+- Navigating diverse projects and client requirements
+- Building custom web solutions from scratch
+- Enjoying the freedom and challenges of self-employment
+
+### 💼 **IT Support & Encoder Intern** | South East Star Enterprises
+**March 2024 - May 2024**
+- Provided technical support and troubleshooting
+- Data encoding and management
+- Gained practical experience in IT operations
 
 ---
 
@@ -117,7 +134,6 @@ Passionate about creating end-to-end solutions with modern technologies, focusin
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -134,6 +150,7 @@ Passionate about creating end-to-end solutions with modern technologies, focusin
 ---
 
 ## 🎯 What I'm Currently Learning
+
 - 🔥 **Advanced React Patterns** & Performance Optimization
 - ☁️ **Cloud Architecture** with AWS/Azure
 - 🤖 **AI/ML Integration** in web applications
@@ -147,18 +164,18 @@ Passionate about creating end-to-end solutions with modern technologies, focusin
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NightDev19&theme=tokyonight" style="width:100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NightDev19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" style="width:100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=NightDev19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" style="width:100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightDev19&theme=tokyonight&hide_border=true" style="width:100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NightDev19&theme=tokyonight" style="width:100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightDev19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" style="width:100%" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NightDev19&theme=tokyonight" style="width:100%" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=NightDev19&theme=tokyonight&hide_border=true" style="width:100%" />
     </td>
   </tr>
 </table>
@@ -168,7 +185,7 @@ Passionate about creating end-to-end solutions with modern technologies, focusin
 ## 🎬 Latest YouTube Content
 
 <div align="center">
-  
+
 [![Latest YouTube Videos](https://img.shields.io/badge/🎥_Latest_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nightcoremetry7772)
 
 <table>
